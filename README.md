@@ -1,0 +1,2 @@
+# -v1
+利用captcha.image的ImageCaptcha模块自动生成验证码图片；借鉴AlexNet的神经网络进行模型搭建进行验证码识别（亮点在于最后的四个全连接神经网络）；利用keras.utils.vis_utils的plot_model的模块进行Keras模型可视化；不同损失函数的对比和模型训练过程的分析；
